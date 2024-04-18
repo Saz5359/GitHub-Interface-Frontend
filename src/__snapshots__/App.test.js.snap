@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App component 1`] = `
+<div>
+  <div>
+    <img
+      className="image"
+      src="http://pngimg.com/uploads/github/github_PNG20.png"
+    />
+  </div>
+  <br />
+  <div
+    className="container"
+  >
+    <input
+      className="textbox"
+      onChange={[Function]}
+      placeholder="Enter your Github User Name..."
+      type="text"
+    />
+    <button
+      className="btn btn-dark"
+      disabled={false}
+      onClick={[Function]}
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+  <br />
+  <br />
+</div>
+`;
